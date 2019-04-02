@@ -16,7 +16,7 @@ RUN apt-get update && apt-get -y install \
 	gzip \
 	wget \
 	git \
-    make \
+        make \
 	libz-dev \
 	build-essential \
 	libc6 \
